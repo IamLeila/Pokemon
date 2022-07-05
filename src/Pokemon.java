@@ -1,4 +1,3 @@
-import java.nio.file.FileStore;
 import java.util.Random;
 
 public class Pokemon {
